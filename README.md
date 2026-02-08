@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0229-majority-element-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0287-find-the-duplicate-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0287-find-the-duplicate-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2396-strictly-palindromic-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0287-find-the-duplicate-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2396-strictly-palindromic-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
