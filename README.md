@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0551-student-attendance-record-i) |
 | [3813-vowel-consonant-score](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3813-vowel-consonant-score) |
 ## Simulation
