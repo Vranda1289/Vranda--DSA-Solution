@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0575-distribute-candies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1408-string-matching-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1408-string-matching-in-an-array) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0229-majority-element-ii) |
+| [0575-distribute-candies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0575-distribute-candies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
