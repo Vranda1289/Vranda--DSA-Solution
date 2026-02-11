@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0575-distribute-candies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1408-string-matching-in-an-array) |
 | [1446-consecutive-characters](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1446-consecutive-characters) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3813-vowel-consonant-score](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3813-vowel-consonant-score) |
 ## Simulation
 |  |
