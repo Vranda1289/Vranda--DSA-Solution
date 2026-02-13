@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0705-design-hashset) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0147-insertion-sort-list) |
 | [0229-majority-element-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0389-find-the-difference) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0657-robot-return-to-origin) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
