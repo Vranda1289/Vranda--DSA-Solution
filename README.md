@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0389-find-the-difference) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0551-student-attendance-record-i) |
@@ -104,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0657-robot-return-to-origin) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3813-vowel-consonant-score](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3813-vowel-consonant-score) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0067-add-binary) |
 | [2396-strictly-palindromic-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0389-find-the-difference) |
 ## Linked List
