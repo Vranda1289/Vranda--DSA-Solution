@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0657-robot-return-to-origin) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3813-vowel-consonant-score](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3813-vowel-consonant-score) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0219-contains-duplicate-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
