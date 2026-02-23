@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0152-maximum-product-subarray) |
 ## Queue
 |  |
