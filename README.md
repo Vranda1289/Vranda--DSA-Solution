@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0657-robot-return-to-origin) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0292-nim-game) |
