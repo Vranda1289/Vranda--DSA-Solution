@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Two Pointers
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0292-nim-game) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2396-strictly-palindromic-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
