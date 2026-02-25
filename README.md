@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0219-contains-duplicate-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0287-find-the-duplicate-number) |
