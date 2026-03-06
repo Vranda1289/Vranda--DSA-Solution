@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0070-climbing-stairs) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0136-single-number) |
