@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0242-valid-anagram) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0043-multiply-strings) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0067-add-binary) |
