@@ -10,7 +10,7 @@ class Solution {
             }
             n=n/2;
         }
-        String ans=res.reverse().toString();
+        String ans=res.toString();
         int count=0;
 
         for(int i=0; i<ans.length(); i++){
