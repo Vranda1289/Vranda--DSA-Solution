@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3024-type-of-triangle) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
