@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2540-minimum-common-value) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2396-strictly-palindromic-number) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3024-type-of-triangle) |
 ## Counting
