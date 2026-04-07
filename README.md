@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3024-type-of-triangle) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3875-construct-uniform-parity-array-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2396-strictly-palindromic-number) |
 | [3024-type-of-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3024-type-of-triangle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
 |  |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0258-add-digits) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Quickselect
 |  |
 | ------- |
