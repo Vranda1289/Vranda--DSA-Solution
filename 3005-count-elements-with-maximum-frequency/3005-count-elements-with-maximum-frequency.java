@@ -8,18 +8,15 @@ class Solution {
 
         int maxfreq=0;
         int sum=0;
-        for(int x: map.keySet()){
-            int freq=map.get(x);
-            if(maxfreq<freq){
-                maxfreq=freq;
-            }
-        }
-        for(int x: map.keySet()){
-            int freq=map.get(x);
-            if(freq == maxfreq){
-                sum += freq;
-            }
-        }
+        for(int freq : map.values()){
+    if(freq > maxfreq){
+        maxfreq = freq;
+        sum = freq;   
+    }
+    else if(freq == maxfreq){
+        sum += freq;
+    }
+}
         return sum;
     }
 }
