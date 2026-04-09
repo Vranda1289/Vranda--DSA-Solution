@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3813-vowel-consonant-score](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3813-vowel-consonant-score) |
 ## Simulation
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3024-type-of-triangle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Brainteaser
 |  |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Linked List
 |  |
 | ------- |
