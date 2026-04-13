@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0292-nim-game) |
+| [0507-perfect-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0877-stone-game) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2396-strictly-palindromic-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2396-strictly-palindromic-number) |
