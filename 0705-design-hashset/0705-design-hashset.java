@@ -1,7 +1,5 @@
 class MyHashSet {
-
-    HashSet<Integer>set;
-
+    HashSet <Integer> set;
     public MyHashSet() {
         set=new HashSet<>();
     }
