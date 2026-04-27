@@ -18,16 +18,16 @@ class Solution {
         List<List<Integer>> list=new ArrayList<>();
         if(root==null) return list;
 
-        Queue<TreeNode> q =new LinkedList<>();
+        Queue<TreeNode> q=new LinkedList<>();
         q.add(root);
         while(!q.isEmpty()){
-            int level_size=q.size();
-            List<Integer> sublist=new ArrayList<>();
-            for(int i=0; i<level_size; i++){
+            int length=q.size();
+             List<Integer> sublist=new ArrayList<>();
+            for(int i=0; i<length; i++){
                 TreeNode node=q.remove();
                 sublist.add(node.val);
-                if(node.left !=null) q.add(node.left);
-                if(node.right !=null) q.add(node.right);
+                if(node.left!=null) q.add(node.left);
+                if(node.right!=null) q.add(node.right);
             }
             list.add(sublist);
         }
