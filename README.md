@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2549-count-distinct-numbers-on-board) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2549-count-distinct-numbers-on-board) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3024-type-of-triangle) |
 ## Counting
