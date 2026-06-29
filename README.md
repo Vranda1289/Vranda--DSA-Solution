@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0147-insertion-sort-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0706-design-hashmap) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1019-next-greater-node-in-linked-list) |
