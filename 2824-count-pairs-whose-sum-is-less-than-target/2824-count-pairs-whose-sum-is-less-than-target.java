@@ -1,13 +1,20 @@
 class Solution {
-    public int countPairs(List<Integer> nums, int target) {
+    public int countPairs(List<Integer> arr, int target) {
         int count=0;
-        for(int i=0; i<nums.size(); i++){
-            for(int j=i+1; j<nums.size(); j++){
-                if(nums.get(i)+nums.get(j)<target){
-                    count++;
-                }
-            }
-        }
-        return count;
+       int a=arr.size();
+       Collections.sort(arr);
+       int x=0;
+       int y=a-1;
+       while(x<y){
+           if(arr.get(x)+arr.get(y)<target){
+               count+=(y-x);
+               x++;
+           }
+           else{
+               y--;
+           }
+           
+       }
+       return count;
     }
 }
