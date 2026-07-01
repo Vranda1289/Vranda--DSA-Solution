@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0287-find-the-duplicate-number) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2574-left-and-right-sum-differences) |
