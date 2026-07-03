@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3024-type-of-triangle) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Binary Search
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3024-type-of-triangle) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
 | ------- |
