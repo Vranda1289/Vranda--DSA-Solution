@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0912-sort-an-array) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String Matching
 |  |
