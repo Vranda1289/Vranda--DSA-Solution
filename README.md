@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
