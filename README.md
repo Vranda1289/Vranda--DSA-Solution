@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0645-set-mismatch) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String Matching
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Memoization
