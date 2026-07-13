@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2206-divide-array-into-equal-pairs) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3541-find-most-frequent-vowel-and-consonant) |
