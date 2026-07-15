@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3024-type-of-triangle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3875-construct-uniform-parity-array-i) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0258-add-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Quickselect
 |  |
 | ------- |
