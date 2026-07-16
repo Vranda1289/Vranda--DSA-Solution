@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2427-number-of-common-factors) |
+| [2469-convert-the-temperature](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2469-convert-the-temperature) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2549-count-distinct-numbers-on-board) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3024-type-of-triangle) |
