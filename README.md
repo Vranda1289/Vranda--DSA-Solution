@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1019-next-greater-node-in-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0912-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1137-n-th-tribonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1688-count-of-matches-in-tournament) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0976-largest-perimeter-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 ## String Matching
 |  |
 | ------- |
