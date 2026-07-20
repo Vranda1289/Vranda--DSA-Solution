@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0061-rotate-list) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0147-insertion-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0237-delete-node-in-a-linked-list) |
