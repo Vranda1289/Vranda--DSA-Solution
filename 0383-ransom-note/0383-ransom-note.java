@@ -2,21 +2,21 @@ import java.util.*;
 
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        HashMap<Character, Integer> map = new HashMap<>();
-
        
-        for(char c : magazine.toCharArray()) {
-            map.put(c, map.getOrDefault(c, 0) + 1);
-        }
+       ArrayList<Character> list=new ArrayList<>();
 
-       
-        for(char c : ransomNote.toCharArray()) {
-            if(!map.containsKey(c) || map.get(c) == 0) {
-                return false;
-            }
-            map.put(c, map.get(c) - 1);
-        }
+       for(char ch:magazine.toCharArray()){
+        list.add(ch);
+       }
 
-        return true;
+       for(char ch: ransomNote.toCharArray()){
+        if(list.contains(ch)){
+            list.remove(Character.valueOf(ch));
+        }
+        else{
+            return false;
+        }
+       }
+       return true;
     }
 }
