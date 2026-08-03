@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0648-replace-words) |
 | [0705-design-hashset](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0724-find-pivot-index) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0648-replace-words) |
 | [0705-design-hashset](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0771-jewels-and-stones) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0648-replace-words](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0856-score-of-parentheses) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0386-lexicographical-numbers) |
+| [0648-replace-words](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0648-replace-words) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Heap (Priority Queue)
 |  |
