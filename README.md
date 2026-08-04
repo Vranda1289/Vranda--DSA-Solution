@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0053-maximum-subarray) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0455-assign-cookies) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0070-climbing-stairs) |
