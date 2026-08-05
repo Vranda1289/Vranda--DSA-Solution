@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2769-find-the-maximum-achievable-number) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3024-type-of-triangle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0706-design-hashmap) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1019-next-greater-node-in-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2000-reverse-prefix-of-word) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
