@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1710-maximum-units-on-a-truck](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1710-maximum-units-on-a-truck) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 | [1710-maximum-units-on-a-truck](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1710-maximum-units-on-a-truck) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## String Matching
 |  |
 | ------- |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Memoization
 |  |
 | ------- |
