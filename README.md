@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0455-assign-cookies) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0455-assign-cookies) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0860-lemonade-change) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1137-n-th-tribonacci-number) |
 ## Queue
