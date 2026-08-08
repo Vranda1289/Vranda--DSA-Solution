@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0912-sort-an-array) |
+| [0942-di-string-match](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1004-max-consecutive-ones-iii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0633-sum-of-square-numbers) |
 | [0917-reverse-only-letters](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0917-reverse-only-letters) |
+| [0942-di-string-match](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0942-di-string-match) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0942-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1108-defanging-an-ip-address) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1408-string-matching-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1408-string-matching-in-an-array) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 | [1710-maximum-units-on-a-truck](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1710-maximum-units-on-a-truck) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
