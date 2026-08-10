@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3925-concatenate-array-with-reverse) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
