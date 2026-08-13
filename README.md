@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2418-sort-the-people](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2418-sort-the-people](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2418-sort-the-people) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
