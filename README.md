@@ -781,4 +781,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1395-count-number-of-teams) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
