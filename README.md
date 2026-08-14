@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0147-insertion-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0237-delete-node-in-a-linked-list) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
