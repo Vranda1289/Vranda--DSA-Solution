@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0575-distribute-candies) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0648-replace-words) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1480-running-sum-of-1d-array) |
