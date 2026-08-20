@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3024-type-of-triangle) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2549-count-distinct-numbers-on-board) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3813-vowel-consonant-score](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3894-traffic-signal-color) |
