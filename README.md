@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1629-slowest-key](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1629-slowest-key) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1748-sum-of-unique-elements) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1710-maximum-units-on-a-truck) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
