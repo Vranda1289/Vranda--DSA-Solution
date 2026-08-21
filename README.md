@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0645-set-mismatch) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0648-replace-words) |
 | [0705-design-hashset](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0705-design-hashset) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0912-sort-an-array) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -645,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
