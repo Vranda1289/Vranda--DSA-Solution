@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
