@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1137-n-th-tribonacci-number) |
@@ -812,4 +814,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0175-combine-two-tables) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
