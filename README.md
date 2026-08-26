@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1816-truncate-sentence) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1492-the-kth-factor-of-n) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1688-count-of-matches-in-tournament) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1480-running-sum-of-1d-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2574-left-and-right-sum-differences) |
 ## Interactive
 |  |
