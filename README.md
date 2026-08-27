@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0143-reorder-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0189-rotate-array) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0147-insertion-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0705-design-hashset) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0496-next-greater-element-i) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
