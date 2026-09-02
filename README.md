@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2427-number-of-common-factors) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2469-convert-the-temperature](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2469-convert-the-temperature) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2549-count-distinct-numbers-on-board) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2427-number-of-common-factors) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Merge Sort
 |  |
 | ------- |
