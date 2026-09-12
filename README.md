@@ -660,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0543-diameter-of-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0700-search-in-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0700-search-in-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -843,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
