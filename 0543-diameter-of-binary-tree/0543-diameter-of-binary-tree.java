@@ -20,10 +20,11 @@ class Solution {
         return diameter;
     }
     public int solve(TreeNode root){
-        if(root==null)return 0;
-        int left_diameter=solve(root.left);
-        int right_diameter=solve(root.right);
-        diameter=Math.max(diameter,left_diameter+right_diameter);
-        return 1+Math.max(left_diameter,right_diameter);
+        if(root==null) return 0;
+        int lheight=solve(root.left);
+        int rheight=solve(root.right);
+
+        diameter=Math.max(diameter, lheight+rheight);
+        return Math.max(lheight,rheight)+1;
     }
 }
