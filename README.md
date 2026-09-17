@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1748-sum-of-unique-elements) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1929-concatenation-of-array) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2574-left-and-right-sum-differences) |
 ## Interactive
 |  |
