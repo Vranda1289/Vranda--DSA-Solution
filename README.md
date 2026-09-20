@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0504-base-7) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0551-student-attendance-record-i) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1137-n-th-tribonacci-number) |
 | [1395-count-number-of-teams](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1395-count-number-of-teams) |
