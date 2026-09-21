@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0942-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1108-defanging-an-ip-address) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1408-string-matching-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1408-string-matching-in-an-array) |
 | [1446-consecutive-characters](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1446-consecutive-characters) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1137-n-th-tribonacci-number) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1395-count-number-of-teams](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1395-count-number-of-teams) |
 | [1668-maximum-repeating-substring](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1668-maximum-repeating-substring) |
 ## Queue
