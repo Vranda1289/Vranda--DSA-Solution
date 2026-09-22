@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3731-find-missing-elements) |
+| [3819-rotate-non-negative-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3819-rotate-non-negative-elements) |
 | [3866-first-unique-even-element](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3895-count-digit-appearances) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3813-vowel-consonant-score](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3813-vowel-consonant-score) |
+| [3819-rotate-non-negative-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3819-rotate-non-negative-elements) |
 | [3894-traffic-signal-color](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
