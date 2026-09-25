@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0152-maximum-product-subarray) |
+| [0312-burst-balloons](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0435-non-overlapping-intervals) |
