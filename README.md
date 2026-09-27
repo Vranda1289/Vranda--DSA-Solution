@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0942-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1108-defanging-an-ip-address) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1408-string-matching-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1408-string-matching-in-an-array) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1019-next-greater-node-in-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2000-reverse-prefix-of-word) |
@@ -952,4 +954,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
