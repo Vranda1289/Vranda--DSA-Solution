@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1629-slowest-key](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1629-slowest-key) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1137-n-th-tribonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1395-count-number-of-teams](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1395-count-number-of-teams) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1668-maximum-repeating-substring](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1668-maximum-repeating-substring) |
 ## Queue
 |  |
