@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0344-reverse-string) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0292-nim-game) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [1137-n-th-tribonacci-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
@@ -804,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -964,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0020-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
