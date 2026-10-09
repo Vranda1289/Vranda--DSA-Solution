@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1019-next-greater-node-in-linked-list) |
 | [1035-uncrossed-lines](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1043-partition-array-for-maximum-sum) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0877-stone-game) |
 | [1035-uncrossed-lines](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1043-partition-array-for-maximum-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1137-n-th-tribonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1395-count-number-of-teams](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1395-count-number-of-teams) |
