@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2679-sum-in-a-matrix](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2679-sum-in-a-matrix) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Merge Sort
 |  |
