@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0137-single-number-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0217-contains-duplicate) |
@@ -1010,4 +1012,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1015-smallest-integer-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
