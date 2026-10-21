@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3813-vowel-consonant-score](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3813-vowel-consonant-score) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3894-traffic-signal-color](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3894-traffic-signal-color) |
 | [3941-password-strength](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3941-password-strength) |
 ## Simulation
