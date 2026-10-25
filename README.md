@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0504-base-7) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0657-robot-return-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1929-concatenation-of-array) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0628-maximum-product-of-three-numbers) |
