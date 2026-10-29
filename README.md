@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2109-adding-spaces-to-a-string) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1019-next-greater-node-in-linked-list) |
