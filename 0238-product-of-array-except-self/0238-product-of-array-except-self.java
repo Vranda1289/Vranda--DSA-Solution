@@ -5,10 +5,10 @@ class Solution {
         int suff[]=new int[n];
         int ans[]=new int[n];
 
-        int total=1;
-        for(int i=0; i<n; i++){
-            total*=arr[i];
-        }
+        // int total=1;
+        // for(int i=0; i<n; i++){
+        //     total*=arr[i];
+        // }
         pre[0]=1;
         for(int i=1; i<n; i++){
             pre[i]=pre[i-1]*arr[i-1];
