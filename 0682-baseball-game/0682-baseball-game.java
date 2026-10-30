@@ -1,24 +1,25 @@
 class Solution {
     public int calPoints(String[] operations) {
-        ArrayList<Integer> arr = new ArrayList<>();
-        for(String word : operations){
-            if(!word.equals("C")&&!word.equals("D")&&!word.equals("+")){
-                arr.add(Integer.parseInt(word));
+        ArrayList<Integer> list=new ArrayList<>();
+
+        for(String word:operations){
+            if(!word.equals("C") && !word.equals("D") && !word.equals("+")){
+                list.add(Integer.parseInt(word));
             }
             else if(word.equals("C")){
-                arr.remove(arr.size()-1);
+                list.remove(list.size()-1);
             }
             else if(word.equals("D")){
-                arr.add(arr.get(arr.size()-1)*2);
+                list.add(list.get(list.size()-1)*2);
             }
-            else if(word.equals("+")){
-                int n=arr.size();
-                arr.add(arr.get(n-1)+arr.get(n-2));
+            else{
+                int n=list.size();
+                list.add(list.get(n-1)+list.get(n-2));
             }
         }
         int sum=0;
-        for(int x: arr){
-            sum += x;
+        for(int x:list){
+            sum+=x;
         }
         return sum;
     }
