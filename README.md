@@ -1035,4 +1035,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0128-longest-consecutive-sequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
