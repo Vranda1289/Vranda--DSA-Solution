@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0067-add-binary) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0143-reorder-list) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0053-maximum-subarray) |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
