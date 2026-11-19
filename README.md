@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0875-koko-eating-bananas) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1019-next-greater-node-in-linked-list) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sliding Window
