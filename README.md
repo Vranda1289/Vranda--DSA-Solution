@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3483-unique-3-digit-even-numbers) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3775-reverse-words-with-same-vowel-count) |
