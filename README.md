@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0147-insertion-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/0237-delete-node-in-a-linked-list) |
