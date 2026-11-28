@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/3895-count-digit-appearances) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Brainteaser
 |  |
 | ------- |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/1710-maximum-units-on-a-truck) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Vranda1289/Vranda--DSA-Problem/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## String Matching
 |  |
 | ------- |
